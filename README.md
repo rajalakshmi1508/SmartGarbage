@@ -1,1 +1,1 @@
-# SmartGarbage
+# SmartGarbageImagebasedidentificationandSegregation
